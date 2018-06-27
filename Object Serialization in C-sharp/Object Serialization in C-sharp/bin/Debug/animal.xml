@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Tiger</Name>
+  <Height>4.3</Height>
+  <Weight>243.54</Weight>
+</Animal>

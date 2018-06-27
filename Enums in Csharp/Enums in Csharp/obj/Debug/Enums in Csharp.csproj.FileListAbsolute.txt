@@ -1,0 +1,7 @@
+E:\Projects\Git\Csharp-Features\Enums in Csharp\Enums in Csharp\bin\Debug\Enums in Csharp.exe.config
+E:\Projects\Git\Csharp-Features\Enums in Csharp\Enums in Csharp\bin\Debug\Enums in Csharp.exe
+E:\Projects\Git\Csharp-Features\Enums in Csharp\Enums in Csharp\bin\Debug\Enums in Csharp.pdb
+E:\Projects\Git\Csharp-Features\Enums in Csharp\Enums in Csharp\obj\Debug\Enums in Csharp.csprojResolveAssemblyReference.cache
+E:\Projects\Git\Csharp-Features\Enums in Csharp\Enums in Csharp\obj\Debug\Enums in Csharp.csproj.CoreCompileInputs.cache
+E:\Projects\Git\Csharp-Features\Enums in Csharp\Enums in Csharp\obj\Debug\Enums in Csharp.exe
+E:\Projects\Git\Csharp-Features\Enums in Csharp\Enums in Csharp\obj\Debug\Enums in Csharp.pdb

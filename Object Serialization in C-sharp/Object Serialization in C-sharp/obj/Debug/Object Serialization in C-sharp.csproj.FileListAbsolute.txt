@@ -1,0 +1,7 @@
+E:\Projects\Sapient-Games-Arena\Object Serialization in C-sharp\Object Serialization in C-sharp\bin\Debug\Object Serialization in C-sharp.exe.config
+E:\Projects\Sapient-Games-Arena\Object Serialization in C-sharp\Object Serialization in C-sharp\bin\Debug\Object Serialization in C-sharp.exe
+E:\Projects\Sapient-Games-Arena\Object Serialization in C-sharp\Object Serialization in C-sharp\bin\Debug\Object Serialization in C-sharp.pdb
+E:\Projects\Sapient-Games-Arena\Object Serialization in C-sharp\Object Serialization in C-sharp\obj\Debug\Object Serialization in C-sharp.csprojResolveAssemblyReference.cache
+E:\Projects\Sapient-Games-Arena\Object Serialization in C-sharp\Object Serialization in C-sharp\obj\Debug\Object Serialization in C-sharp.csproj.CoreCompileInputs.cache
+E:\Projects\Sapient-Games-Arena\Object Serialization in C-sharp\Object Serialization in C-sharp\obj\Debug\Object Serialization in C-sharp.exe
+E:\Projects\Sapient-Games-Arena\Object Serialization in C-sharp\Object Serialization in C-sharp\obj\Debug\Object Serialization in C-sharp.pdb

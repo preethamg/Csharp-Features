@@ -1,0 +1,7 @@
+E:\Projects\Git\Csharp-Features\Delegates in Csharp\Delegates in Csharp\bin\Debug\Delegates in Csharp.exe.config
+E:\Projects\Git\Csharp-Features\Delegates in Csharp\Delegates in Csharp\bin\Debug\Delegates in Csharp.exe
+E:\Projects\Git\Csharp-Features\Delegates in Csharp\Delegates in Csharp\bin\Debug\Delegates in Csharp.pdb
+E:\Projects\Git\Csharp-Features\Delegates in Csharp\Delegates in Csharp\obj\Debug\Delegates in Csharp.csprojResolveAssemblyReference.cache
+E:\Projects\Git\Csharp-Features\Delegates in Csharp\Delegates in Csharp\obj\Debug\Delegates in Csharp.csproj.CoreCompileInputs.cache
+E:\Projects\Git\Csharp-Features\Delegates in Csharp\Delegates in Csharp\obj\Debug\Delegates in Csharp.exe
+E:\Projects\Git\Csharp-Features\Delegates in Csharp\Delegates in Csharp\obj\Debug\Delegates in Csharp.pdb

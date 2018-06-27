@@ -1,0 +1,7 @@
+E:\Projects\Git\Csharp-Features\Generics in Csharp\Generics in Csharp\obj\Debug\Generics in Csharp.csprojResolveAssemblyReference.cache
+E:\Projects\Git\Csharp-Features\Generics in Csharp\Generics in Csharp\obj\Debug\Generics in Csharp.csproj.CoreCompileInputs.cache
+E:\Projects\Git\Csharp-Features\Generics in Csharp\Generics in Csharp\bin\Debug\Generics in Csharp.exe.config
+E:\Projects\Git\Csharp-Features\Generics in Csharp\Generics in Csharp\bin\Debug\Generics in Csharp.exe
+E:\Projects\Git\Csharp-Features\Generics in Csharp\Generics in Csharp\bin\Debug\Generics in Csharp.pdb
+E:\Projects\Git\Csharp-Features\Generics in Csharp\Generics in Csharp\obj\Debug\Generics in Csharp.exe
+E:\Projects\Git\Csharp-Features\Generics in Csharp\Generics in Csharp\obj\Debug\Generics in Csharp.pdb
